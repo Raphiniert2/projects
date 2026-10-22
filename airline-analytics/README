@@ -1,0 +1,9 @@
+# Airline Analytics
+
+This analysis was created as a university project to predict future customer relationships and explain concrete pain points to improve.
+
+## Structure of this project:
+
+* **Data Cleaning & Preprocessing**
+* **Exploratory Data Analysis (EDA)**
+* **Predictive Modeling** (scikit-learn with RandomForestClassifier)
