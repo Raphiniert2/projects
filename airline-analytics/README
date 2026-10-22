@@ -7,3 +7,5 @@ This analysis was created as a university project to predict future customer rel
 * **Data Cleaning & Preprocessing**
 * **Exploratory Data Analysis (EDA)**
 * **Predictive Modeling** (scikit-learn with RandomForestClassifier)
+
+> **Note on Language:** While the project documentation and code structure are written in English, the visualizations and plot labels within the notebook are in German, as this project was presented in a German-speaking university context.
